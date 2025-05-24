@@ -62,7 +62,7 @@ glasses_detection/
 
 ## Requirements
 
-- Python 3.x  
+- Python 3.10  
 - TensorFlow  
 - NumPy  
 - Matplotlib  
@@ -77,4 +77,4 @@ This project is open source and free to use.
 
 ---
 
-Made with ❤️ by [Your Name or GitHub Handle]
+Made with ❤️ by Abdullah Mehmood
